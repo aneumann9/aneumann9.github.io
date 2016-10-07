@@ -1,0 +1,36 @@
+.awesome {
+  color: orange;
+}
+body {
+  margin-top: 30px;
+}
+h1 {
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 70px;
+}
+h2 {
+  font-size: 35px;
+}
+.page-header {
+  color: green;
+}
+.footer {
+    height: 60px;
+    background-color: darkgrey;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom:0;
+    width: 100%;
+}
+.tab {
+  margin-left: 2.5em
+}
+#Arsenal
+{color: red;
+}
+.dropdown-toggle{
+padding: .5em;
+  background-color: yellow;
+  text: black;
+}
