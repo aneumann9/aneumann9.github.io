@@ -5,10 +5,10 @@ body {
   margin-top: 30px;
 }
 h1 {
-font-family: 'Open Sans Condensed', sans-serif;
 font-size: 70px;
 }
 h2 {
+font-family: 'Open Sans Condensed', sans-serif;
   font-size: 35px;
 }
 .page-header {
